@@ -30,7 +30,7 @@ install -d $RPM_BUILD_ROOT%{_datadir}/xemacs-packages
 
 cp -a * $RPM_BUILD_ROOT%{_datadir}/xemacs-packages
 
-%clear
+%clean
 rm -rf $RPM_BUILD_ROOT
 
 %files
