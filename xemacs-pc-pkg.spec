@@ -13,7 +13,7 @@ BuildArch:	noarch
 Conflicts:	xemacs-sumo
 Requires:	xemacs
 Requires:	xemacs-base-pkg
-BuildRoot:	/tmp/%{name}-%{version}-root
+BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 PC style interface emulation.
