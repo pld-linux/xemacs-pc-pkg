@@ -17,7 +17,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 PC style interface emulation.
 
-%description -l pl 
+%description -l pl
 Emulacja interfejsu w stylu PC.
 
 %prep
