@@ -5,7 +5,7 @@
 ### EndComment
 
 Summary: 	PC style interface emulation.
-Summary(pl):	PC style interface emulation.
+Summary(pl):	Emulacja interfejsu w stylu PC.
 
 Name:    	xemacs-pc-pkg
 %define 	srcname	pc
