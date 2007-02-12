@@ -1,5 +1,5 @@
 Summary:	PC style interface emulation
-Summary(pl.UTF-8):   Emulacja interfejsu w stylu PC
+Summary(pl.UTF-8):	Emulacja interfejsu w stylu PC
 Name:		xemacs-pc-pkg
 %define 	srcname	pc
 Version:	1.26
