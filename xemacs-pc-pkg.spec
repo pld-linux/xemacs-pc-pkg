@@ -6,7 +6,7 @@ Version:	1.26
 Release:	2
 License:	GPL
 Group:		Applications/Editors/Emacs
-Source0:	ftp://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
+Source0:	http://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
 # Source0-md5:	47189d077b363012c4b17f527eef2ec7
 URL:		http://www.xemacs.org/
 BuildArch:	noarch
