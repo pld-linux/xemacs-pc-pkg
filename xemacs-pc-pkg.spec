@@ -2,12 +2,12 @@ Summary:	PC style interface emulation
 Summary(pl.UTF-8):	Emulacja interfejsu w stylu PC
 Name:		xemacs-pc-pkg
 %define 	srcname	pc
-Version:	1.26
-Release:	2
+Version:	1.28
+Release:	1
 License:	GPL
 Group:		Applications/Editors/Emacs
 Source0:	http://ftp.xemacs.org/xemacs/packages/%{srcname}-%{version}-pkg.tar.gz
-# Source0-md5:	47189d077b363012c4b17f527eef2ec7
+# Source0-md5:	b3722c793e2f9b977fc0967ed0805efa
 URL:		http://www.xemacs.org/
 BuildArch:	noarch
 Conflicts:	xemacs-sumo
